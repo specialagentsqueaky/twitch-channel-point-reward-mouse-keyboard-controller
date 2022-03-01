@@ -1,0 +1,12 @@
+/.idea/
+/out/
+
+/release/openjdk-11.0.2/
+!/release/openjdk-11.0.2/readme.md
+
+/release/*.jar
+/release/*.zip
+
+
+/config.txt
+/personaltoken.txt
